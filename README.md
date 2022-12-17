@@ -12,7 +12,3 @@ Quick and easy, right? 💖
 - I'm looking for my first oportunity to work on tech/dev
 - Working on some projects (Telegram Bot and an API with Steam data integration atm)
 - And cycling a bunch to keep body and mind healthy
-
-###
-![snake gif](https://github.com/skyalarcon/SkyAlarcon/blob/output/github-contribution-grid-snake.svg)
-###
