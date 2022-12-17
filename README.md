@@ -13,4 +13,6 @@ Quick and easy, right? 💖
 - Working on some projects (Telegram Bot and an API with Steam data integration atm)
 - And cycling a bunch to keep body and mind healthy
 
+###
 ![snake gif](https://github.com/SkyAlarcon/SkyAlarcon/blob/main/github-contribution-grid-snake.svg)
+###
