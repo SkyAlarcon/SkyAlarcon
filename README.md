@@ -14,5 +14,5 @@ Quick and easy, right? 💖
 - And cycling a bunch to keep body and mind healthy
 
 ###
-![snake gif](https://github.com/skyalarcon/SkyAlarcon/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/skyalarcon/SkyAlarcon/blob/output/github-contribution-grid-snake.svg)
 ###
