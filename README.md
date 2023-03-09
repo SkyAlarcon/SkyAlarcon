@@ -6,6 +6,7 @@
 - Gamer
 - Back-End Javascript developer
 - Cyclist
+
 Quick and easy, right? 💖
 
 ## Is there more?
