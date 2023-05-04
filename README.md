@@ -9,7 +9,11 @@
 
 Quick and easy, right? 💖
 
+## What am I doing now?
+- I work as an Integration Analyst at [Track Trace RX](https://www.tracktracerx.com/)
+- Partnered with a medical startup to develop processes automation 
+- Working on an Data Analysis project called [Steam Flashback](https://github.com/SkyAlarcon/Steam-Flashback) (Be sure to give it a read ;3)
+
 ## Is there more?
-- I'm looking for my first oportunity to work on tech/dev
-- Working on some projects (Telegram Bot and an API with Steam data integration atm)
-- And cycling a bunch to keep body and mind healthy
+- I'm looking for and opportunity to work as dev (JS/Py)
+- Cycling a bunch to keep body and mind healthy
