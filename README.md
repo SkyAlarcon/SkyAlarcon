@@ -15,5 +15,5 @@ Quick and easy, right? 💖
 - Working on an Data Analysis project called [Steam Flashback](https://github.com/SkyAlarcon/Steam-Flashback) (Be sure to give it a read ;3)
 
 ## Is there more?
-- I'm looking for and opportunity to work as dev (JS/Py)
+- Loves Achievement Hunting and already 100%'ed 30+ games
 - Cycling a bunch to keep body and mind healthy
